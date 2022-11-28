@@ -126,7 +126,7 @@ void loop()
 
     float temperatura_C = (tensao - 0.5) * 100;
 
-    // Temperatura em graus Farenheit:
+    // Temperatura em graus Fahrenheit:
 
     float temperatura_F = (temperatura_C * 1.8) + 32;
 
@@ -144,7 +144,7 @@ void loop()
 
         display_lcd.print(temperatura_C);
 
-        // Farenheit:
+        // Fahrenheit:
 
         display_lcd.setCursor(9, 1);
 
