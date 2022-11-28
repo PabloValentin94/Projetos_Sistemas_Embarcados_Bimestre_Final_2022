@@ -18,16 +18,10 @@ Neste projeto, o **Sensor de Temperatura** analisa a temperatura atual do ambien
 
 **Link do Projeto:** [https://www.tinkercad.com/things/fh9mK6XtbqE](https://www.tinkercad.com/things/fh9mK6XtbqE)
 
-## Motores com Acionador de Motor Ponte H:
+## Motores com Acionador de Motor de Ponte H:
 
 Neste projeto, programamos **dois botões**. O **botão esquerdo**, é responsável por fazer os motores girarem no sentido **anti-horário**, e o **direito**, no **horário**.
 
 **Link do Projeto:** [https://www.tinkercad.com/things/47JwhGwj7Ij](https://www.tinkercad.com/things/47JwhGwj7Ij)
-
-</div>
-
-<div align="center">
-
-# Autor:
 
 </div>
